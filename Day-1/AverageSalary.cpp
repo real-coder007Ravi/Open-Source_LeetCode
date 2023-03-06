@@ -26,7 +26,7 @@ All the integers of salary are unique.
 #include <iostream>
 #include <climits>
 using namespace std;
-#include <algorithm>
+
 #include <vector>
 double average(vector<int> &salary)
 {
